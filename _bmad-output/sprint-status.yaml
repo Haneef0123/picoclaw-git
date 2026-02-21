@@ -1,0 +1,13 @@
+# Sprint Status Tracker
+# Updated by BMad agents during implementation
+# STATUS VALUES: backlog | ready-for-dev | in-progress | review | done
+
+project: Picoclaw Git
+current_epic: null
+last_updated: null
+
+epics: {}
+
+notes: |
+  Sprint status initialized.
+  Run product-owner workflow to begin planning phase.
